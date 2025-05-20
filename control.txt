@@ -1,2 +1,2 @@
-true
+false
 https://github.com/ggtestweb/trolify/raw/refs/heads/main/domtendo-betrug.wav
